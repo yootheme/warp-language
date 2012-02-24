@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-02 17:23+0100\n"
+"PO-Revision-Date: 2011-04-27 16:50+0100\n"
+"Last-Translator: YOOtheme <info@yootheme.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: layouts/404.php:3
+msgid "Errore 404 - Non Trovato"
+msgstr ""
+
+#: layouts/404.php:4
+msgid "La pagina che stavi cercando non è stata trovata, oppure è stata spostata."
+msgstr ""
+
+#: layouts/_pagination.php:43
+msgid "Primo"
+msgstr ""
+
+#: layouts/_pagination.php:63
+msgid "Ultimo"
+msgstr ""
+
+#: layouts/_post.php:5
+#: layouts/single.php:10
+#, php-format
+msgid "Scritto da %s on %s. Postato in %s"
+msgstr ""
+
+#: layouts/_post.php:10
+msgid "Leggi Tutto"
+msgstr ""
+
+#: layouts/_post.php:11
+msgid "Nessun COmmento"
+msgstr ""
+
+#: layouts/_post.php:11
+msgid "1 Commento"
+msgstr ""
+
+#: layouts/_post.php:11
+msgid "% Commenti"
+msgstr ""
+
+#: layouts/_post.php:14
+#: layouts/single.php:14
+msgid "Tags: "
+msgstr ""
+
+#: layouts/_post.php:16
+#: layouts/page.php:12
+#: layouts/single.php:16
+msgid "Edita questo post."
+msgstr ""
+
+#: layouts/archive.php:8
+#, php-format
+msgid "Posts Taggati %s"
+msgstr ""
+
+#: layouts/archive.php:10
+#: layouts/archive.php:12
+#: layouts/archive.php:14
+#, php-format
+msgid "Archivia per %s"
+msgstr ""
+
+#: layouts/archive.php:16
+#: layouts/author.php:3
+msgid "Archivio Autore"
+msgstr ""
+
+#: layouts/archive.php:18
+msgid "Archivio Blog"
+msgstr ""
+
+#: layouts/archive.php:28
+#, php-format
+msgid "Scusa, ma non ci sono post nella categoria %s ."
+msgstr ""
+
+#: layouts/archive.php:30
+msgid "Scusa, ma non ci sono post per questa data."
+msgstr ""
+
+#: layouts/archive.php:33
+#, php-format
+msgid "Scusa, ma non cis sono ancora posti di %s ."
+msgstr ""
+
+#: layouts/archive.php:35
+msgid "Nessun psot trovato."
+msgstr ""
+
+#: layouts/attachment.php:10
+#, php-format
+msgid "Pubblicato da %s in %s"
+msgstr ""
+
+#: layouts/attachment.php:15
+#, php-format
+msgid "La dimensione completa è di %s pixels."
+msgstr ""
+
+#: layouts/attachment.php:18
+msgid "Link all'immagine intera"
+msgstr ""
+
+#: layouts/attachment.php:32
+msgid "Modifica l'allegato."
+msgstr ""
+
+#: layouts/comments.php:6
+#, php-format
+msgid "Commenti (%s)"
+msgstr ""
+
+#: layouts/comments.php:6
+msgid "Commenti chiusi"
+msgstr ""
+
+#: layouts/comments.php:47
+#, php-format
+msgid "%1$s a %2$s"
+msgstr ""
+
+#: layouts/comments.php:49
+msgid "Edita"
+msgstr ""
+
+#: layouts/comments.php:59
+msgid "Rispondi"
+msgstr ""
+
+#: layouts/comments.php:63
+msgid "Il tuo commento sta aspettando l'approvazione."
+msgstr ""
+
+#: layouts/comments.php:90
+msgid "Cancella"
+msgstr ""
+
+#: layouts/comments.php:133
+msgid "Lascia un commento"
+msgstr ""
+
+#: layouts/comments.php:136
+#, php-format
+msgid "Devi essere <a href=\"%s\">loggato</a> per postare un commento."
+msgstr ""
+
+#: layouts/comments.php:146
+#, php-format
+msgid "Loggato come <a href=\"%s\">%s</a>."
+msgstr ""
+
+#: layouts/comments.php:146
+msgid "Esci da questo account"
+msgstr ""
+
+#: layouts/comments.php:146
+msgid "Esci &raquo;"
+msgstr ""
+
+#: layouts/comments.php:154
+msgid "Nome"
+msgstr ""
+
+#: layouts/comments.php:159
+msgid "E-mail"
+msgstr ""
+
+#: layouts/comments.php:164
+msgid "Sito Web"
+msgstr ""
+
+#: layouts/comments.php:174
+msgid "Commenta"
+msgstr ""
+
+#: layouts/index.php:11
+msgid "Non Trovato"
+msgstr ""
+
+#: layouts/index.php:12
+msgid "Scusa, ma stai cercando qualcosa che non è qui."
+msgstr ""
+
+#: layouts/widgets/search.php:22
+msgid "Risultati della Ricerca"
+msgstr ""
+
+#: layouts/search.php:5
+msgid "Risultati della RIcerca per"
+msgstr ""
+
+#: layouts/search.php:13
+msgid "Nessun post trovato. Provare con un'altra ricerca?"
+msgstr ""
+
+#: layouts/single.php:19
+#, php-format
+msgid "<a href=\"%s\">Trackback</a> dal tuo sito."
+msgstr ""
+
+#: layouts/widgets/rss.php:4
+msgid "Leggi i feed"
+msgstr ""
+
+#: layouts/widgets/search.php:14
+msgid "cerca..."
+msgstr ""
+
+#: layouts/widgets/search.php:22
+msgid "Altri Risultati"
+msgstr ""
+
+#: layouts/widgets/search.php:22
+msgid "Nessun risultato trovato"
+msgstr ""
+
+#: widgets/breadcrumbs/breadcrumbs.php:106
+msgid "Titolo:"
+msgstr ""
+
+#: widgets/breadcrumbs/breadcrumbs.php:110
+msgid "Titolo Principale:"
+msgstr ""
+
+# not used in all themes
+msgid "Scritto da"
+msgstr ""
+
+msgid "Pubblicato da"
+msgstr ""
+
+msgid "Postato in"
+msgstr ""
+
+msgid "Autore"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Categorie"
+msgstr ""
+
+msgid "Perfavore aggiorna ad un browser moderno"
+msgstr ""
+
+msgid "ie6_page_message"
+msgstr "Il sito che stai visualizzando può essere visitato utilizzando un browser moderno. Perfavore aggiorna il tuo broser per migliorare la sicurezza e l'esperienza di navigazione. Scegli uono dei seguenti browsers. Se non ti importa <a href=\"?forwardie6=1\">clicca qui</a>"
+
+msgid "Pagina non trovata"
+msgstr ""
+
+msgid "404_page_message"
+msgstr "La pagina che stava cercando non è stata trovata oppure un altro errore è occorso. <a href=\"javascript:history.go(-1)\">Torna indietrok</a>, o procedi avanti <a href=\"%s\">%s</a> scegliendo un'altra cartella."
+
