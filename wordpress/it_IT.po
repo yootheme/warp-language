@@ -54,7 +54,7 @@ msgstr "Tags: "
 
 #: layouts/_post.php:16 layouts/page.php:12 layouts/single.php:16
 msgid "Edit this post."
-msgstr "Edita questo post."
+msgstr "Modifica questo post."
 
 #: layouts/archive.php:8
 #, php-format
@@ -86,11 +86,11 @@ msgstr "Scusa, ma non ci sono post per questa data."
 #: layouts/archive.php:33
 #, php-format
 msgid "Sorry, but there aren't any posts by %s yet."
-msgstr "Scusa, ma non cis sono ancora posti di %s ."
+msgstr "Scusa, ma non ci sono ancora posti di %s ."
 
 #: layouts/archive.php:35
 msgid "No posts found."
-msgstr "Nessun psot trovato."
+msgstr "Nessun post trovato."
 
 #: layouts/attachment.php:10
 #, php-format
@@ -126,7 +126,7 @@ msgstr "%1$s a %2$s"
 
 #: layouts/comments.php:49
 msgid "Edit"
-msgstr "Edita"
+msgstr "Modifica"
 
 #: layouts/comments.php:59
 msgid "Reply"
@@ -192,11 +192,11 @@ msgstr "Risultati della Ricerca"
 
 #: layouts/search.php:5
 msgid "Search Results for"
-msgstr "Risultati della RIcerca per"
+msgstr "Risultati della Ricerca per"
 
 #: layouts/search.php:13
 msgid "No posts found. Try a different search?"
-msgstr "Nessun post trovato. Provare con un'altra ricerca?"
+msgstr "Nessun post trovato. Prova con un'altra ricerca?"
 
 #: layouts/single.php:19
 #, php-format
