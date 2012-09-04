@@ -33,10 +33,10 @@ msgstr "Último"
 #: layouts/single.php:10
 #, php-format
 msgid "Written by %s on %s. Posted in %s"
-msgstr "Escrito por %s el %s. Posteado en %s"
+msgstr "Escrito por %s el %s. Publicado en %s"
 
 msgid "Written by %s. Posted in %s"
-msgstr "Escrito por %s. Posteado en %s"
+msgstr "Escrito por %s. Publicado en %s"
 
 #: layouts/_post.php:10
 msgid "Continue Reading"
@@ -75,30 +75,30 @@ msgstr "Publicaciones etiquetadas %s"
 #: layouts/archive.php:14
 #, php-format
 msgid "Archive for %s"
-msgstr "Archiv para %s"
+msgstr "Archivo para %s"
 
 #: layouts/archive.php:16
 #: layouts/author.php:3
 msgid "Author Archive"
-msgstr "Autor del archivo"
+msgstr "Archivo del autor"
 
 #: layouts/archive.php:18
 msgid "Blog Archives"
-msgstr "Archivos del blog"
+msgstr "Archivos del sitio"
 
 #: layouts/archive.php:28
 #, php-format
 msgid "Sorry, but there aren't any posts in the %s category yet."
-msgstr "Lo siento, pero aún no hay publicaciones en la categoria %s."
+msgstr "Lo sentimos, pero aún no hay publicaciones en la categoria %s."
 
 #: layouts/archive.php:30
 msgid "Sorry, but there aren't any posts with this date."
-msgstr "Lo siento, pero no hay publicaciones con esta fecha."
+msgstr "Lo sentimos, pero no hay publicaciones con esta fecha."
 
 #: layouts/archive.php:33
 #, php-format
 msgid "Sorry, but there aren't any posts by %s yet."
-msgstr "Lo siento, pero aún no hay publicaciones de %s."
+msgstr "Lo sentimos, pero aún no hay publicaciones de %s."
 
 #: layouts/archive.php:35
 msgid "No posts found."
@@ -120,7 +120,7 @@ msgstr "Abrir imagen a tamaño completo."
 
 #: layouts/attachment.php:32
 msgid "Edit this attachment."
-msgstr "Editar este adujunto."
+msgstr "Editar este adjunto."
 
 #: layouts/comments.php:6
 #, php-format
@@ -134,7 +134,7 @@ msgstr "Los comentarios están cerrados."
 #: layouts/comments.php:47
 #, php-format
 msgid "%1$s at %2$s"
-msgstr "%1$s a %2$s"
+msgstr "%1$s en %2$s"
 
 #: layouts/comments.php:49
 msgid "Edit"
@@ -184,7 +184,7 @@ msgstr "E-mail"
 
 #: layouts/comments.php:164
 msgid "Website"
-msgstr "Dirección Web"
+msgstr "Página Web"
 
 #: layouts/comments.php:174
 msgid "Submit Comment"
@@ -237,7 +237,7 @@ msgstr "Título:"
 
 #: widgets/breadcrumbs/breadcrumbs.php:110
 msgid "Home title:"
-msgstr "Título de la home:"
+msgstr "Título de la Página Principal:"
 
 # not used in all themes
 msgid "Written by"
@@ -262,7 +262,7 @@ msgid "Please update to a modern browser"
 msgstr "Por favor, utiliza un navegador más moderno"
 
 msgid "outdatedBrowser_page_message"
-msgstr "Esta Web sólo puede ser vista usando un navegador moderno. Por favor, actualice su navegador para aumentar la seguridad y su experiencia de navegación. Elija uno de los navegadores anteriores. Si no te importa <a href=\"?forwardOutdatedBrowser=1\"> a haga clic aquí </a>"
+msgstr "Esta Web sólo puede ser vista usando un navegador moderno. Por favor, actualiza tu navegador para aumentar la seguridad y tu experiencia de navegación. Elija uno de los navegadores anteriores. Si no te importa <a href=\"?forwardOutdatedBrowser=1\"> haga clic aquí </a>"
 
 msgid "Page not found"
 msgstr "Página no encontrada"
