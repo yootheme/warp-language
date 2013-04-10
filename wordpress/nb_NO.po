@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Master v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-04 02:50:41-0500\n"
+"Last-Translator: aeston <aksel@gevir.no>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Norwegian (Bokmål)\n"
+"X-Poedit-Country: NORWAY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:13
+#@ warp
+msgid "Page not found"
+msgstr "Side ikke funnet"
+
+#: 404.php:13
+#@ warp
+msgid "404_page_message"
+msgstr "En feil oppstod"
+
+#: warp/systems/wordpress/layouts/_pagination.php:49
+#@ warp
+msgid "First"
+msgstr "Først"
+
+#: warp/systems/wordpress/layouts/_pagination.php:69
+#@ warp
+msgid "Last"
+msgstr "Sist"
+
+#: warp/systems/wordpress/layouts/_post.php:19
+#: warp/systems/wordpress/layouts/search.php:23
+#: warp/systems/wordpress/layouts/single.php:23
+#, php-format
+#@ warp
+msgid "Written by %s on %s. Posted in %s"
+msgstr "Skrevet av %s, %s. Publisert i %s"
+
+#: warp/systems/wordpress/layouts/_post.php:30
+#: warp/systems/wordpress/layouts/search.php:34
+#@ warp
+msgid "Continue Reading"
+msgstr "Les mer"
+
+#: warp/systems/wordpress/layouts/_post.php:31
+#: warp/systems/wordpress/layouts/search.php:35
+#@ warp
+msgid "No Comments"
+msgstr "Ingen kommentarer"
+
+#: warp/systems/wordpress/layouts/_post.php:31
+#: warp/systems/wordpress/layouts/search.php:35
+#@ warp
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: warp/systems/wordpress/layouts/_post.php:31
+#: warp/systems/wordpress/layouts/search.php:35
+#@ warp
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: warp/systems/wordpress/layouts/_post.php:34
+#: warp/systems/wordpress/layouts/page.php:24
+#: warp/systems/wordpress/layouts/search.php:38
+#: warp/systems/wordpress/layouts/single.php:33
+#@ warp
+msgid "Edit this post."
+msgstr "Rediger artikkel"
+
+#: warp/systems/wordpress/layouts/archive.php:8
+#, php-format
+#@ warp
+msgid "Posts Tagged %s"
+msgstr "Artikler merket %s"
+
+#: warp/systems/wordpress/layouts/archive.php:10
+#: warp/systems/wordpress/layouts/archive.php:12
+#: warp/systems/wordpress/layouts/archive.php:14
+#, php-format
+#@ warp
+msgid "Archive for %s"
+msgstr "Arkiv for %s"
+
+#: warp/systems/wordpress/layouts/archive.php:16
+#: warp/systems/wordpress/layouts/author.php:3
+#@ warp
+msgid "Author Archive"
+msgstr "Forfatterarkiv"
+
+#: warp/systems/wordpress/layouts/archive.php:18
+#@ warp
+msgid "Blog Archives"
+msgstr "Blogarkiv"
+
+#: warp/systems/wordpress/layouts/archive.php:28
+#, php-format
+#@ warp
+msgid "Sorry, but there aren't any posts in the %s category yet."
+msgstr "Beklager, men det er ikke publisert noen artikler i kategorien %s ennå."
+
+#: warp/systems/wordpress/layouts/archive.php:30
+#@ warp
+msgid "Sorry, but there aren't any posts with this date."
+msgstr "Beklager, men det er ingen artikler med denne datoen."
+
+#: warp/systems/wordpress/layouts/archive.php:33
+#, php-format
+#@ warp
+msgid "Sorry, but there aren't any posts by %s yet."
+msgstr "Beklager, men %s har ikke publisert noen artikler ennå."
+
+#: warp/systems/wordpress/layouts/archive.php:35
+#@ warp
+msgid "No posts found."
+msgstr "Ingen artikler funnet."
+
+#: warp/systems/wordpress/layouts/attachment.php:15
+#, php-format
+#@ warp
+msgid "Published by %s on %s"
+msgstr "Publisert av %s, %s"
+
+#: warp/systems/wordpress/layouts/attachment.php:21
+#, php-format
+#@ warp
+msgid "Full size is %s pixels."
+msgstr "Full størrelse er %s pixler."
+
+#: warp/systems/wordpress/layouts/attachment.php:24
+#@ warp
+msgid "Link to full-size image"
+msgstr "Link til bildet i full størrelse"
+
+#: warp/systems/wordpress/layouts/attachment.php:40
+#@ warp
+msgid "Edit this attachment."
+msgstr "Rediger vedlegg."
+
+#: warp/systems/wordpress/layouts/comments.php:6
+#, php-format
+#@ warp
+msgid "Comments (%s)"
+msgstr "Kommentarer (%s)"
+
+#: warp/systems/wordpress/layouts/comments.php:6
+#@ warp
+msgid "Comments are closed"
+msgstr "Stengt for kommentarer"
+
+#: warp/systems/wordpress/layouts/comments.php:47
+#, php-format
+#@ warp
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: warp/systems/wordpress/layouts/comments.php:49
+#@ default
+msgid "Edit"
+msgstr ""
+
+#: warp/systems/wordpress/layouts/comments.php:59
+#@ warp
+msgid "Reply"
+msgstr "Svar"
+
+#: warp/systems/wordpress/layouts/comments.php:63
+#@ warp
+msgid "Your comment is awaiting moderation."
+msgstr "Kommentaren din er sendt til godkjenning."
+
+#: warp/systems/wordpress/layouts/comments.php:85
+#@ warp
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+#: warp/systems/wordpress/layouts/comments.php:88
+#, php-format
+#@ warp
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du må være <a href=\"%s\">logget inn</a> for å skrive en kommentar."
+
+#: warp/systems/wordpress/layouts/comments.php:97
+#, php-format
+#@ warp
+msgid "Logged in as <a href=\"%s\">%s</a>."
+msgstr "Logget inn som  <a href=\"%s\">%s</a>."
+
+#: warp/systems/wordpress/layouts/comments.php:97
+#@ warp
+msgid "Log out of this account"
+msgstr "Logg ut "
+
+#: warp/systems/wordpress/layouts/comments.php:97
+#@ warp
+msgid "Log out &raquo;"
+msgstr "Logg ut &raquo;"
+
+#: warp/systems/wordpress/layouts/comments.php:104
+#@ warp
+msgid "Name"
+msgstr "Navn"
+
+#: warp/systems/wordpress/layouts/comments.php:108
+#@ warp
+msgid "E-mail"
+msgstr "E-post"
+
+#: warp/systems/wordpress/layouts/comments.php:112
+#@ warp
+msgid "Website"
+msgstr "Nettside"
+
+#: warp/systems/wordpress/layouts/comments.php:122
+#@ warp
+msgid "Submit Comment"
+msgstr "Skriv kommentar"
+
+#: warp/systems/wordpress/layouts/comments.php:148
+#@ default
+msgid "Cancel"
+msgstr ""
+
+#: warp/systems/wordpress/layouts/index.php:11
+#@ warp
+msgid "Not Found"
+msgstr "Ikke funnet"
+
+#: warp/systems/wordpress/layouts/index.php:12
+#@ warp
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Beklager, men du ser etter noe som ikke finnes."
+
+#: warp/systems/wordpress/layouts/mobile/search.php:2
+#: warp/systems/wordpress/layouts/widgets/search.php:2
+#@ warp
+msgid "search..."
+msgstr "søk..."
+
+#: warp/systems/wordpress/layouts/search.php:5
+#@ warp
+msgid "Search Results for"
+msgstr "Søkeresultater for"
+
+#: warp/systems/wordpress/layouts/search.php:50
+#@ warp
+msgid "No posts found. Try a different search?"
+msgstr "Ingen artikler funnet. Prøv et nytt søk?"
+
+#: warp/systems/wordpress/layouts/single.php:31
+#@ warp
+msgid "Tags: "
+msgstr "Stikkord:"
+
+#: warp/systems/wordpress/layouts/single.php:36
+#, php-format
+#@ warp
+msgid "<a href=\"%s\">Trackback</a> from your site."
+msgstr ""
+
+#: warp/systems/wordpress/layouts/widgets/rss.php:4
+#@ default
+msgid "Read feed"
+msgstr ""
+
+#: warp/systems/wordpress/layouts/widgets/search.php:9
+#@ warp
+msgid "Search Results"
+msgstr "Søkeresultater"
+
+#: warp/systems/wordpress/layouts/widgets/search.php:9
+#@ warp
+msgid "More Results"
+msgstr "Flere resultater"
+
+#: warp/systems/wordpress/layouts/widgets/search.php:9
+#@ warp
+msgid "No results found"
+msgstr "Ingen treff"
+
+#: warp/systems/wordpress/widgets/breadcrumbs/breadcrumbs.php:112
+#: warp/systems/wordpress/widgets/sidebar/sidebar.php:47
+#@ warp
+msgid "Title:"
+msgstr "Tittel:"
+
+#: warp/systems/wordpress/widgets/breadcrumbs/breadcrumbs.php:116
+#@ warp
+msgid "Home title:"
+msgstr "Hjem tittel:"
+
+#: woocommerce/cart/cart.php:22
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:23
+#@ woocommerce
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:24
+#@ woocommerce
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:25
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:41
+#@ woocommerce
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:66
+#@ woocommerce
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:116
+#@ woocommerce
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:116
+#@ woocommerce
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:123
+#@ woocommerce
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:123
+#@ woocommerce
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: woocommerce/cart/totals.php:20
+#@ woocommerce
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/totals.php:25
+#@ woocommerce
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/totals.php:32
+#@ woocommerce
+msgid "Cart Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:32
+#: woocommerce/cart/totals.php:195
+#@ woocommerce
+msgid "[Remove]"
+msgstr ""
+
+#: woocommerce/cart/totals.php:41
+#@ woocommerce
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/totals.php:104
+#@ woocommerce
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/totals.php:106
+#@ woocommerce
+msgid "Sorry, it seems that there are no available shipping methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/cart/totals.php:132
+#: woocommerce/cart/totals.php:159
+#@ woocommerce
+msgid "incl.&nbsp;"
+msgstr ""
+
+#: woocommerce/cart/totals.php:146
+#@ woocommerce
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/totals.php:174
+#: woocommerce/cart/totals.php:184
+#@ woocommerce
+msgid "Tax"
+msgstr ""
+
+#: woocommerce/cart/totals.php:185
+#@ woocommerce
+msgctxt "Relating to tax"
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/cart/totals.php:195
+#@ woocommerce
+msgid "Order Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:202
+#@ woocommerce
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/totals.php:220
+#, php-format
+#@ woocommerce
+msgid "(taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:222
+#, php-format
+#@ woocommerce
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/totals.php:232
+#@ woocommerce
+msgid "No shipping methods were found; please recalculate your shipping and enter your state/county and zip/postcode to ensure their are no other available methods for your location."
+msgstr ""
+
+#: woocommerce/cart/totals.php:239
+#, php-format
+#@ woocommerce
+msgid "Sorry, it seems that there are no available shipping methods for your location (%s)."
+msgstr ""
+
+#: woocommerce/cart/totals.php:241
+#@ woocommerce
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr ""
+
