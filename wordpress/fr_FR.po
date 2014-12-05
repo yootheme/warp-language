@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: YOOTheme\n"
 "Report-Msgid-Bugs-To: Vincent\n"
 "POT-Creation-Date: 2010-11-02 17:23+0100\n"
-"PO-Revision-Date: 2014-12-05 10:41-0500\n"
+"PO-Revision-Date: 2014-12-05 11:01-0500\n"
 "Last-Translator: Cédric Talbot <cedric@tactsolutions.ca>\n"
 "Language-Team: TACT <support@tactsolutions.ca>\n"
 "Language: fr_FR\n"
@@ -31,12 +31,12 @@ msgstr "Fin"
 #: layouts/_post.php:5 layouts/single.php:10
 #, php-format
 msgid "Written by %s on %s. Posted in %s"
-msgstr "Ecrit par %s le %s. Publié dans %s"
+msgstr "Écrit par %s le %s. Publié dans %s"
 
 #: layouts/_post.php:5 layouts/single.php:10
 #, php-format
 msgid "Written by %s. Posted in %s"
-msgstr "Ecrit par %s. Publié dans %s"
+msgstr "Écrit par %s. Publié dans %s"
 
 #: layouts/_post.php:10
 msgid "Continue Reading"
@@ -56,7 +56,7 @@ msgstr "% commentaires"
 
 #: layouts/_post.php:14 layouts/single.php:14
 msgid "Tags: "
-msgstr "Mots-clefs : "
+msgstr "Mots-clés : "
 
 #: layouts/_post.php:16 layouts/page.php:12 layouts/single.php:16
 msgid "Edit this post."
@@ -247,7 +247,7 @@ msgid "Author"
 msgstr "Auteur"
 
 msgid "Tags"
-msgstr "Mots-clefs"
+msgstr "Mots-clés"
 
 msgid "Categories"
 msgstr "Catégories"
