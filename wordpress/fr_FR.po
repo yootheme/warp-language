@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: warp\n"
+"Project-Id-Version: YOOTheme\n"
 "Report-Msgid-Bugs-To: Vincent\n"
 "POT-Creation-Date: 2010-11-02 17:23+0100\n"
-"PO-Revision-Date: 2014-12-05 10:16-0500\n"
+"PO-Revision-Date: 2014-12-05 10:41-0500\n"
 "Last-Translator: Cédric Talbot <cedric@tactsolutions.ca>\n"
 "Language-Team: TACT <support@tactsolutions.ca>\n"
 "Language: fr_FR\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: layouts/404.php:3
 msgid "Error 404 - Not Found"
-msgstr "Erreur : Fichier non trouvé"
+msgstr "Erreur 404 : Non trouvé"
 
 #: layouts/404.php:4
 msgid "The page you requested does not exist, or has been moved."
