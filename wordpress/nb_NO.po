@@ -1,15 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION 2012\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-11-02 17:23+0100\n"
-"PO-Revision-Date: 2013-05-25 19:42+0100\n"
+"PO-Revision-Date: 2016-07-14 04:46+0300\n"
 "Last-Translator: \n"
 "Language-Team: LANGUAGE Norway <post@tmedia.no>\n"
+"Language: nb_NO\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
 #: layouts/404.php:3
 msgid "Error 404 - Not Found"
@@ -102,7 +103,6 @@ msgstr "Publisert av %s %s"
 msgid "Full size is %s pixels."
 msgstr "Originalstørrelsen er %s pixler"
 
-# fea
 #: layouts/attachment.php:18
 msgid "Link to full-size image"
 msgstr "Lenke til bildets originalstørrelse"
@@ -148,8 +148,7 @@ msgstr "Legg igjen en kommentar"
 #: layouts/comments.php:136
 #, php-format
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr ""
-"Du må være <a href=\"%s\">logget inn</a> for å kunne skrive kommentarer."
+msgstr "Du må være <a href=\"%s\">logget inn</a> for å kunne skrive kommentarer."
 
 #: layouts/comments.php:146
 #, php-format
@@ -249,18 +248,13 @@ msgid "Categories"
 msgstr "Kategorier"
 
 msgid "Please update to a modern browser"
-msgstr "Vennligst oppgrader din nettleser"
+msgstr "Du burde oppdatere til en moderne nettleser."
 
 msgid "outdatedBrowser_page_message"
-msgstr ""
-"Siden du besøker kan bare sees korrekt med en moderne nettleser. Hvis du vil "
-"vise siden likevel, <a href=\"?forwardie6=1\">klikke her</a>"
+msgstr "Siden du besøker kan bare sees korrekt med en moderne nettleser. Hvis du vil vise siden likevel, <a href=\"?forwardie6=1\">klikke her</a>"
 
 msgid "Page not found"
 msgstr "Siden finnes ikke"
 
 msgid "404_page_message"
-msgstr ""
-"Siden du søker finnes ikke, er flyttet eller det har oppstått en feil. <a "
-"href=\"javascript:history.go(-1)\">Gå tilbake</a>, eller besøk <a href=\"%s"
-"\">%s</a> for å velge et annet alternativ."
+msgstr "Siden du søker finnes ikke, er flyttet eller det har oppstått en feil. <a href=\"javascript:history.go(-1)\">Gå tilbake</a>, eller besøk <a href=\"%s\">%s</a> for å velge et annet alternativ."
